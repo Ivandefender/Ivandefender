@@ -16,7 +16,7 @@ or
 <br>
 Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</a>
 
-## My stack:
+## 👨‍💻 My stack:
 
  <table aling="center">
       <tbody>
@@ -30,22 +30,23 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></td> 
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg"/></td> 
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></td> 
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/></td> 
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></td>    
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/></td>    
         </tr>
       </tbody>
 </table>      
           
-## Currently learning
+## 📚 Currently learning
 
 ![Static Badge](https://img.shields.io/badge/typescript-darkblue?style=for-the-badge&logo=typescript&logoColor=darkblue&labelColor=blue)
 
-## My portfolio and CV
+## 📄 My portfolio and CV
 <a href="">Portfolio</a>
 
 <a href="">CV</a>
 
-## Education
+## 📝 Education
 
 <a href="https://www.youtube.com/@itmentor">Навчаємось разом (ITmentor on YouTube)</a>
 
