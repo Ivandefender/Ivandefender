@@ -42,14 +42,17 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 ![Static Badge](https://img.shields.io/badge/typescript-darkblue?style=for-the-badge&logo=typescript&logoColor=darkblue&labelColor=blue)
 
 ## 📄 My portfolio and CV
-<a href="">Portfolio</a>
 
-<a href="">CV</a>
+<ul>
+ <li><a href="">Portfolio</a></li>
+ <li><a href="">CV</a></li>
+ <li>GoITeens: курс FRONTEND JUNIOR (2020)</li>
+</ul>
 
 ## 📝 Education
 
-<a href="https://www.youtube.com/@itmentor">Навчаємось разом (ITmentor on YouTube)</a>
-
-<a href="https://t.me/+VxIy6tHGmGoOOaCM">Спілкування ITmentor (Telegram)</a>
-
-GoITeens: курс FRONTEND JUNIOR (2020)
+<ul>
+ <li><a href="https://www.youtube.com/@itmentor">Навчаємось разом (ITmentor on YouTube)</a></li>
+ <li><a href="https://t.me/+VxIy6tHGmGoOOaCM">Спілкування ITmentor (Telegram)</a></li>
+ <li>GoITeens: курс FRONTEND JUNIOR (2020)</li>
+</ul>
