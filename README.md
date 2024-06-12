@@ -18,9 +18,23 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 
 ## My stack:
 
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" />      
+ <table aling="center">
+      <tbody>
+        <tr>
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/></td>
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></td>
+          <td><img height="75px" width="75px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></td>
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/></td>
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></td>
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></td> 
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></td> 
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg"/></td> 
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></td> 
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></td>    
+          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/></td>    
+        </tr>
+      </tbody>
+</table>      
           
 ## Currently learning
 
@@ -32,3 +46,9 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 <a href="">CV</a>
 
 ## Education
+
+<a href="https://www.youtube.com/@itmentor">Навчаємось разом (ITmentor on YouTube)</a>
+
+<a href="https://t.me/+VxIy6tHGmGoOOaCM">Спілкування ITmentor (Telegram)</a>
+
+GoITeens: курс FRONTEND JUNIOR (2017)
