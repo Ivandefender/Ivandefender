@@ -36,6 +36,8 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
         </tr>
       </tbody>
 </table>      
+
+<img width="100%" height="300px" aling="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivandefender&layout=donut">
           
 ## 📚 Currently learning
 
