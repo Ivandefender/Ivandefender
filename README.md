@@ -46,7 +46,6 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 <ul>
  <li><a href="">Portfolio</a></li>
  <li><a href="">CV</a></li>
- <li>GoITeens: курс FRONTEND JUNIOR (2020)</li>
 </ul>
 
 ## 📝 Education
