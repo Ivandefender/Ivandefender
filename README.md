@@ -25,7 +25,6 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/></td>
           <td><img height="75px" width="75px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></td>
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/></td>
-          <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg"/></td>
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></td> 
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></td> 
           <td><img height="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg"/></td> 
