@@ -45,8 +45,8 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 ## 📄 My portfolio and CV
 
 <ul>
- <li><a href="">Portfolio</a></li>
- <li><a href="">CV</a></li>
+ <li><a href="https://ivandefender.github.io/Portfolio/">Portfolio</a></li>
+ <li><a href="https://github.com/Ivandefender/CV/blob/main/Krysak_Ivan_FrontEnd.pdf">CV</a></li>
 </ul>
 
 ## 📝 Education
@@ -54,5 +54,6 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 <ul>
  <li><a href="https://www.youtube.com/@itmentor">Навчаємось разом (ITmentor on YouTube)</a></li>
  <li><a href="https://t.me/+VxIy6tHGmGoOOaCM">Спілкування ITmentor (Telegram)</a></li>
- <li>GoITeens: курс FRONTEND JUNIOR (2020)</li>
+ <li>Vinnytsia IT School: Course "Python Programming. Intensive" (2019)</li>
+ <li>GoITeens: Frontend Developer (HTML + CSS) (2020)</li>
 </ul>
