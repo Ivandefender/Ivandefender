@@ -42,6 +42,8 @@ Write to me in telegram <a href="https%3A%2F%2Ft.me%2FKrysak_Ivan">Ivan Krysak</
 
 ![Static Badge](https://img.shields.io/badge/typescript-darkblue?style=for-the-badge&logo=typescript&logoColor=darkblue&labelColor=blue)
 
+![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=aqua&labelColor=darkblue)
+
 ## 📄 My portfolio and CV
 
 <ul>
